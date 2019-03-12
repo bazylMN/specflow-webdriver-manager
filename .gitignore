@@ -1,0 +1,10 @@
+.vs/
+.gitattributes
+NUnitReports
+NUnitTestResult
+TestReportSpecFlow
+TestResults
+packages
+specflow-webdriver-manager/bin
+specflow-webdriver-manager/obj
+*.exe
